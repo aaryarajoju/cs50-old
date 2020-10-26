@@ -1,6 +1,8 @@
 #include <cs50.h>
 #include <stdio.h>
 
+//CS50-WEEK1-PSET1-MARIO-LESS
+
 int main(void){
 
     int height;
