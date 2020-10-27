@@ -4,7 +4,7 @@ HarvardX CS50 - Introduction to Computer Science <br>
 <b>Week 0 - Scratch</b> <br>
 PSet0<br>
 
-Week 1 - C <br>
+<b>Week 1 - C </b><br>
 <a href ="https://github.com/aaryarajoju/cs50/tree/main/Week%201%20-%20C%20(P%20Set%201)">PSet1</a>
 <ol>
   <li><a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%201%20-%20C%20(P%20Set%201)/1)hello.c">Hello</a></li>
