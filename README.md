@@ -93,17 +93,63 @@ PSet4 :
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/5/">Week 5</a> - Data Structure </b><br>
 PSet5 :
 <a href="https://cs50.harvard.edu/x/2020/psets/5/">Problems </a> -
-<a>Solutions</a> <br><br>
+<a>Solutions</a> <br>
+
+<ol>
+  <li>Speller :
+    <a href="https://cs50.harvard.edu/x/2020/psets/5/speller">Problem</a> -
+    <a> Solution</a></li>
+</ol><br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/6/">Week 6</a> - Python</b> <br>
 PSet6 :
 <a href="https://cs50.harvard.edu/x/2020/psets/6/">Problems </a> -
-<a>Solutions</a> <br><br>
+<a>Solutions</a> <br>
+
+<ol>
+  <li>Hello :
+    <a href="https://cs50.harvard.edu/x/2020/psets/6/hello">Problem</a> -
+    <a> Solution</a></li>
+  
+  <li>Mario-Less :
+    <a href = "https://cs50.harvard.edu/x/2020/psets/6/mario/less">Problem</a> -
+    <a">Solution</a></li>
+  
+  <li>Mario-More :
+    <a href = "https://cs50.harvard.edu/x/2020/psets/6/mario/more">Problem</a> -
+    <a>Solution</a></li>
+  
+  <li>Cash :
+   <a href = "https://cs50.harvard.edu/x/2020/psets/6/cash">Problem</a> -
+   <a>Solution</a></li>
+  
+  <li>Credit :
+    <a href = "https://cs50.harvard.edu/x/2020/psets/6/credit">Problem</a> -
+    <a>Solution</a></li>
+    
+   <li>Readability :
+   <a href = "https://cs50.harvard.edu/x/2020/psets/6/readability">Problem</a> -
+   <a>Solution</a></li>
+  
+  <li>DNA :
+    <a href = "https://cs50.harvard.edu/x/2020/psets/6/dna">Problem</a> -
+    <a>Solution</a></li>
+</ol><br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/7/">Week 7</a> - SQL</b> <br>
 PSet7 :
 <a href="https://cs50.harvard.edu/x/2020/psets/7/">Problems </a> -
-<a>Solutions</a> <br><br>
+<a>Solutions</a> <br>
+
+<ol>
+  <li>Movies :
+    <a href="https://cs50.harvard.edu/x/2020/psets/7/movies">Problem</a> -
+    <a> Solution</a></li>
+  
+  <li>Houses :
+    <a href = "https://cs50.harvard.edu/x/2020/psets/7/houses/">Problem</a> -
+    <a>Solution</a></li>
+</ol><br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/8/">Week 8</a> - Information (Tracks)</b> <br>
 <a href="https://cs50.harvard.edu/x/2020/tracks/">Tracks </a>
