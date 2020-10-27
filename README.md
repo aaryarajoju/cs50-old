@@ -3,11 +3,12 @@ HarvardX CS50 - Introduction to Computer Science <br>
 <a href="https://cs50.harvard.edu/x/2020/"> (CS50X 2020) </a><br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/0/">Week 0</a> - Scratch</b> <br>
-PSet0 <a href="https://cs50.harvard.edu/x/2020/psets/0/">Problems</a><br>
+PSet0 <a href="https://cs50.harvard.edu/x/2020/psets/0/">Problems</a> - 
+<a>Solutions</a> <br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/1/">Week 1</a> - C </b><br>
 PSet1 
-<a href="https://cs50.harvard.edu/x/2020/psets/0/">Problems </a> -
+<a href="https://cs50.harvard.edu/x/2020/psets/1/">Problems </a> -
 <a href ="https://github.com/aaryarajoju/cs50/tree/main/Week%201%20-%20C%20(P%20Set%201)">Solutions</a> <br>
 
 <ol>
@@ -33,15 +34,34 @@ PSet1
 </ol>
 
 <a href="https://cs50.harvard.edu/x/2020/weeks/2/">Week 2</a> - Arrays <br>
+PSet2
+<a href="https://cs50.harvard.edu/x/2020/psets/2/">Problems </a> -
+<a>Solutions</a> <br>
 
 <a href="https://cs50.harvard.edu/x/2020/weeks/3/">Week 3</a> - Algorithms <br>
+PSet3
+<a href="https://cs50.harvard.edu/x/2020/psets/3/">Problems </a> -
+<a>Solutions</a> <br>
 
 <a href="https://cs50.harvard.edu/x/2020/weeks/4/">Week 4</a> - Memory <br>
+PSet4
+<a href="https://cs50.harvard.edu/x/2020/psets/4/">Problems </a> -
+<a>Solutions</a> <br>
 
 <a href="https://cs50.harvard.edu/x/2020/weeks/5/">Week 5</a> - Data Structure <br>
+PSet5
+<a href="https://cs50.harvard.edu/x/2020/psets/5/">Problems </a> -
+<a>Solutions</a> <br>
 
 <a href="https://cs50.harvard.edu/x/2020/weeks/6/">Week 6</a> - Python <br>
+PSet6
+<a href="https://cs50.harvard.edu/x/2020/psets/6/">Problems </a> -
+<a>Solutions</a> <br>
 
 <a href="https://cs50.harvard.edu/x/2020/weeks/7/">Week 7</a> - SQL <br>
+PSet7
+<a href="https://cs50.harvard.edu/x/2020/psets/7/">Problems </a> -
+<a>Solutions</a> <br>
 
-<a href="https://cs50.harvard.edu/x/2020/weeks/7/">Week 8</a> - Information (Tracks) <br>
+<a href="https://cs50.harvard.edu/x/2020/weeks/8/">Week 8</a> - Information (Tracks) <br>
+<a href="https://cs50.harvard.edu/x/2020/tracks/">Tracks </a>
