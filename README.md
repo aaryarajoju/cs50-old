@@ -25,7 +25,7 @@ PSet1 <a href="https://cs50.harvard.edu/x/2020/psets/0/">Problems </a><a href ="
    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%201%20-%20C%20(P%20Set%201)/3)cash.c">Solution</a></li>
   
   <li>Credit
-    <a href="https://cs50.harvard.edu/x/2020/psets/1/credit>Problem</a>
+    <a href = "https://cs50.harvard.edu/x/2020/psets/1/credit">Problem</a>
     <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%201%20-%20C%20(P%20Set%201)/3)credit.c">Solution</a></li>
 </ol>
 
