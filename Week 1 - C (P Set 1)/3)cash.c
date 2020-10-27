@@ -8,13 +8,12 @@ int main(void)
 {
 
     float change;
+
     do{
         change = get_float("Change Owed : ");
     }while (change < 0);
 
     int cents = round(100 * change);
-
-    // printf("%d \n", cents);
 
     int coins = 0;
 
@@ -30,7 +29,6 @@ int main(void)
             coins++;
         }
 
-
         else if (cents >= 5){
             cents = cents - 5;
             coins++;
@@ -41,11 +39,9 @@ int main(void)
             coins++;
         }
 
-
     }
 
     printf("%d \n", coins);
 
     return 0;
 }
-
