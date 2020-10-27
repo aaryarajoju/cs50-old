@@ -55,7 +55,21 @@ PSet2
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/3/">Week 3</a> - Algorithms </b><br>
 PSet3
 <a href="https://cs50.harvard.edu/x/2020/psets/3/">Problems </a> -
-<a>Solutions</a> <br><br>
+<a>Solutions</a>
+
+<ol>
+  <li>Plurality
+    <a href="https://cs50.harvard.edu/x/2020/psets/3/plurality">Problem</a> -
+    <a> Solution</a></li>
+  
+  <li>Runoff
+    <a href = "https://cs50.harvard.edu/x/2020/psets/3/runoff">Problem</a> -
+    <a>Solution</a></li>
+  
+  <li>Tideman
+    <a href = "https://cs50.harvard.edu/x/2020/psets/3/tideman">Problem</a> -
+    <a>Solution</a></li>
+</ol><br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/4/">Week 4</a> - Memory </b><br>
 PSet4
