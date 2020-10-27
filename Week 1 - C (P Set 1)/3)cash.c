@@ -44,7 +44,8 @@ int main(void)
 
     }
 
-    printf("You are owed %d coins \n", coins);
+    printf("%d \n", coins);
 
     return 0;
 }
+
