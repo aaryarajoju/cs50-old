@@ -153,3 +153,6 @@ PSet7 :
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/8/">Week 8</a> - Information (Tracks)</b> <br>
 <a href="https://cs50.harvard.edu/x/2020/tracks/">Tracks </a>
+
+<ul>
+  <li><a href ="https://cs50.harvard.edu/x/2020/tracks/games/"
