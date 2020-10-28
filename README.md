@@ -104,24 +104,24 @@ PSet5 :
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/6/">Week 6</a> - Python</b> <br>
 PSet6 :
 <a href="https://cs50.harvard.edu/x/2020/psets/6/">Problems </a> -
-<a>Solutions</a> <br>
+<a href = "https://github.com/aaryarajoju/cs50/tree/main/Week%206%20-%20Python%20(P%20Set%206)">Solutions</a> <br>
 
 <ol>
   <li>Hello :
     <a href="https://cs50.harvard.edu/x/2020/psets/6/hello">Problem</a> -
-    <a> Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%206%20-%20Python%20(P%20Set%206)/1)hello.py"> Solution</a></li>
   
   <li>Mario-Less :
     <a href = "https://cs50.harvard.edu/x/2020/psets/6/mario/less">Problem</a> -
-    <a">Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%206%20-%20Python%20(P%20Set%206)/2)mario-less.py">Solution</a></li>
   
   <li>Mario-More :
     <a href = "https://cs50.harvard.edu/x/2020/psets/6/mario/more">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%206%20-%20Python%20(P%20Set%206)/2)mario-more.py">Solution</a></li>
   
   <li>Cash :
    <a href = "https://cs50.harvard.edu/x/2020/psets/6/cash">Problem</a> -
-   <a>Solution</a></li>
+   <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%206%20-%20Python%20(P%20Set%206)/3)cash.py">Solution</a></li>
   
   <li>Credit :
     <a href = "https://cs50.harvard.edu/x/2020/psets/6/credit">Problem</a> -
