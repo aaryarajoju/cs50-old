@@ -1,7 +1,6 @@
+//CS50-WEEK1-PSET1-HELLO
 #include <stdio.h>
 #include <cs50.h>
-
-//CS50-WEEK1-PSET1-HELLO
 
 int main(void)
 {
