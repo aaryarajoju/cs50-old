@@ -125,7 +125,7 @@ PSet6 :
   
   <li>Credit :
     <a href = "https://cs50.harvard.edu/x/2020/psets/6/credit">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%206%20-%20Python%20(P%20Set%206)/3)credit.py">Solution</a></li>
     
    <li>Readability :
    <a href = "https://cs50.harvard.edu/x/2020/psets/6/readability">Problem</a> -
