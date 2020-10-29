@@ -5,6 +5,8 @@ Fortunately, computer science has given cashiers everywhere ways to minimize num
 The problem to be solved is to decide which coins and how many of each to hand to the customer.
 Think of a “greedy” cashier as one who wants to take the biggest bite out of this problem as possible with each coin they take out of the drawer."*/
 
+//program to find the lowest number of coins required to cover an amount of change (using the lowest number quarters, dimes, nickles and pennies)
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
