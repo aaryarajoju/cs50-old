@@ -43,7 +43,7 @@ int main(void)
 
             if (tempCard % 10 < 5)
             {
-                //twice the alternate card from right gets added to s
+                //twice the alternate card from right gets added to sum
                 sum += 2 * (tempCard % 10);
                 //the first number from the right is eliminated
                 tempCard = tempCard / 10;
