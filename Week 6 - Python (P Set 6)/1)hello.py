@@ -1,4 +1,4 @@
-#CS50-WEEK1-PSET1-HELLO
+#CS50-WEEK6-PSET6-HELLO
 #"Modify the Hello World program in such a way that it first prompts the user for their name and then prints 'hello, so-and-so', where 'so-and-so' is their actual name."
 
 import cs50
