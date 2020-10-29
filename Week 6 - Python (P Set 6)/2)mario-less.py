@@ -1,4 +1,4 @@
-#CS50-WEEK1-PSET1-MARIO-LESS
+#CS50-WEEK6-PSET6-MARIO-LESS
 #"Let’s recreate that pyramid (Toward the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks) in C, albeit in text, using hashes (#) for bricks."
 
 import cs50
