@@ -1,4 +1,4 @@
-#CS50-WEEK1-PSET1-MARIO-MORE
+#CS50-WEEK6-PSET6-MARIO-MORE
 #"Let’s recreate those pyramids (Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks) in C, albeit in text, using hashes (#) for bricks"
 
 import cs50
