@@ -1,8 +1,8 @@
 //CS50-WEEK1-PSET1-CASH
-/*"When making change, odds are you want to minimize the number of coins you’re dispensing for each customer, lest you run out (or annoy the customer!). 
+/*"When making change, odds are you want to minimize the number of coins you’re dispensing for each customer, lest you run out (or annoy the customer!).
 Fortunately, computer science has given cashiers everywhere ways to minimize numbers of coins due: greedy algorithms."
-"Suppose that a cashier owes a customer some change and in that cashier’s drawer are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). 
-The problem to be solved is to decide which coins and how many of each to hand to the customer. 
+"Suppose that a cashier owes a customer some change and in that cashier’s drawer are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢).
+The problem to be solved is to decide which coins and how many of each to hand to the customer.
 Think of a “greedy” cashier as one who wants to take the biggest bite out of this problem as possible with each coin they take out of the drawer."*/
 
 #include <stdio.h>
@@ -14,14 +14,14 @@ int main(void)
     float change;
 
     //user input for the amount of change in dollars
-    //do while loop checks that the amount entered is non-negative
+    //do-while loop checks that the amount entered is non-negative
     do
     {
         change = get_float("Change Owed : ");
     }
     while (change < 0);
 
-    //converting the change in dollars to change in cents
+    //converting the user input of change in dollars to change in cents
     int cents = round(100 * change);
 
     int coins = 0;
@@ -61,8 +61,8 @@ int main(void)
             coins++;
         }
     }
-    
-    //prints the total number of coins
+
+    //prints the total number of coins required
     printf("%d \n", coins);
 
     return 0;
