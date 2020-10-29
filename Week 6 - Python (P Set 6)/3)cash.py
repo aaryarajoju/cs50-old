@@ -1,4 +1,4 @@
-#CS50-WEEK1-PSET1-CASH
+#CS50-WEEK6-PSET6-CASH
 #"When making change, odds are you want to minimize the number of coins you’re dispensing for each customer, lest you run out (or annoy the customer!).
 # Fortunately, computer science has given cashiers everywhere ways to minimize numbers of coins due: greedy algorithms."
 #"Suppose that a cashier owes a customer some change and in that cashier’s drawer are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢).
