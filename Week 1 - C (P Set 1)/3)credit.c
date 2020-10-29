@@ -127,7 +127,7 @@ int main(void)
         name = 4;
     }
 
-    //Switch-Case for printing out the tyoe of the card
+    //Switch-Case for printing out the type of the card
     switch (name)
     {
         case 1 :
