@@ -36,12 +36,12 @@ PSet1 :
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/2/">Week 2</a> - Arrays </b><br>
 PSet2 :
 <a href="https://cs50.harvard.edu/x/2020/psets/2/">Problems </a> -
-<a>Solutions</a> <br>
+<a href = "https://github.com/aaryarajoju/cs50/tree/main/Week%202%20-%20Arrays%20(P%20Set%202)">Solutions</a> <br>
 
 <ol>
   <li>Readability :
     <a href="https://cs50.harvard.edu/x/2020/psets/2/readability">Problem</a> -
-    <a> Solution</a></li>
+    <a href="https://github.com/aaryarajoju/cs50/blob/main/Week%202%20-%20Arrays%20(P%20Set%202)/1)readability.c"> Solution</a></li>
   
   <li>Caesar :
     <a href = "https://cs50.harvard.edu/x/2020/psets/2/caesar">Problem</a> -
