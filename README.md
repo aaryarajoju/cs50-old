@@ -93,12 +93,12 @@ PSet4 :
 <b><a href = "https://cs50.harvard.edu/x/2020/weeks/5/">Week 5</a> - Data Structure </b><br>
 PSet5 :
 <a href = "https://cs50.harvard.edu/x/2020/psets/5/">Problems </a> -
-<a>Solutions</a> <br>
+<a href = "https://github.com/aaryarajoju/cs50/tree/main/Week%205%20-%20Data%20Structures%20(P%20Set%205)">Solutions</a> <br>
 
 <ol>
   <li>Speller :
     <a href = "https://cs50.harvard.edu/x/2020/psets/5/speller">Problem</a> -
-    <a> Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%205%20-%20Data%20Structures%20(P%20Set%205)/1)Speller.c"> Solution</a></li>
 </ol><br>
 
 <b><a href = "https://cs50.harvard.edu/x/2020/weeks/6/">Week 6</a> - Python</b> <br>
