@@ -55,20 +55,20 @@ PSet2 :
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/3/">Week 3</a> - Algorithms </b><br>
 PSet3 :
 <a href="https://cs50.harvard.edu/x/2020/psets/3/">Problems </a> -
-<a>Solutions</a> <br>
+<a href = "https://github.com/aaryarajoju/cs50/tree/main/Week%203%20-%20Algorithms%20(P%20Set%203)">Solutions</a> <br>
 
 <ol>
   <li>Plurality :
     <a href="https://cs50.harvard.edu/x/2020/psets/3/plurality">Problem</a> -
-    <a> Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%203%20-%20Algorithms%20(P%20Set%203)/1)Plurality.c"> Solution</a></li>
   
   <li>Runoff :
     <a href = "https://cs50.harvard.edu/x/2020/psets/3/runoff">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%203%20-%20Algorithms%20(P%20Set%203)/2)Runoff.c">Solution</a></li>
   
   <li>Tideman :
     <a href = "https://cs50.harvard.edu/x/2020/psets/3/tideman">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%203%20-%20Algorithms%20(P%20Set%203)/2)Tiderman.c">Solution</a></li>
 </ol><br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/4/">Week 4</a> - Memory </b><br>
