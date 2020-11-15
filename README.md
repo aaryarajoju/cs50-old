@@ -74,20 +74,20 @@ PSet3 :
 <b><a href = "https://cs50.harvard.edu/x/2020/weeks/4/">Week 4</a> - Memory </b><br>
 PSet4 :
 <a href = "https://cs50.harvard.edu/x/2020/psets/4/">Problems </a> -
-<a>Solutions</a> <br>
+<a href = "https://github.com/aaryarajoju/cs50/tree/main/Week%204%20-%20Memory%20(P%20Set%204)">Solutions</a> <br>
 
 <ol>
   <li>Filter-Less :
     <a href = "https://cs50.harvard.edu/x/2020/psets/4/filter/less">Problem</a> -
-    <a> Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%204%20-%20Memory%20(P%20Set%204)/1)Filter-Less.c"> Solution</a></li>
   
   <li>Filter-More :
     <a href = "https://cs50.harvard.edu/x/2020/psets/4/filter/more">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%204%20-%20Memory%20(P%20Set%204)/1)Filter-More.c">Solution</a></li>
   
   <li>Recover :
     <a href = "https://cs50.harvard.edu/x/2020/psets/4/recover">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%204%20-%20Memory%20(P%20Set%204)/2)Recover.c">Solution</a></li>
 </ol><br>
 
 <b><a href = "https://cs50.harvard.edu/x/2020/weeks/5/">Week 5</a> - Data Structure </b><br>
