@@ -41,15 +41,15 @@ PSet2 :
 <ol>
   <li>Readability :
     <a href="https://cs50.harvard.edu/x/2020/psets/2/readability">Problem</a> -
-    <a href="https://github.com/aaryarajoju/cs50/blob/main/Week%202%20-%20Arrays%20(P%20Set%202)/1)readability.c"> Solution</a></li>
+    <a href="https://github.com/aaryarajoju/cs50/blob/main/Week%202%20-%20Arrays%20(P%20Set%202)/1)Readability.c"> Solution</a></li>
   
   <li>Caesar :
     <a href = "https://cs50.harvard.edu/x/2020/psets/2/caesar">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%202%20-%20Arrays%20(P%20Set%202)/2)Caesar.c">Solution</a></li>
   
   <li>Substitution :
     <a href = "https://cs50.harvard.edu/x/2020/psets/2/substitution">Problem</a> -
-    <a>Solution</a></li>
+    <a href = "https://github.com/aaryarajoju/cs50/blob/main/Week%202%20-%20Arrays%20(P%20Set%202)/2)Substitution.c">Solution</a></li>
 </ol><br>
 
 <b><a href="https://cs50.harvard.edu/x/2020/weeks/3/">Week 3</a> - Algorithms </b><br>
