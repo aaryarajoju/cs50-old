@@ -17,11 +17,8 @@ int main(int argc, string argv[]){
 
     if (key > 26) key = key % 26;
 
-    if (argc != 2) {
+    if (argc != 2 /*add stuff like if the key is not numeric and not over 0*/) {
         printf("Usage: ./caesar key\n");
-        return 1;
-    } else if (atoi(argv[1]) <=0){
-        printf("Usage: ./caesar key 2\n");
         return 1;
     } else {
         text = get_string("plaintext: ");
