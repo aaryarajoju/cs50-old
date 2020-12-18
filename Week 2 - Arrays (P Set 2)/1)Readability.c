@@ -20,7 +20,7 @@ int main(void)
     //for loop to counting the number of letters, words and sentences
     for (int i = 0, n = strlen(text); i < n; i++)
     {
-        //counts the number of numbers
+        //counts the number of alphabets
         if (isalpha(text[i]))
         {
             letters++;
