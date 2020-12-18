@@ -31,7 +31,7 @@ int main(void)
             printf("#");
         }
 
-        printf(" ");
+        printf("  ");
 
         //prints the second set of hashes
         for (int j = 0; j <= i; j++)
