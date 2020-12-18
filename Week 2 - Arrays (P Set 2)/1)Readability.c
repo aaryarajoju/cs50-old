@@ -56,7 +56,7 @@ int main(void)
     }
     else if (index >= 16)
     {
-        printf("Before Grade 16+\n");
+        printf("Grade 16+\n");
     }
     else
     {
