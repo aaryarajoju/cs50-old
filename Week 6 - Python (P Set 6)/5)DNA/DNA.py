@@ -1,3 +1,6 @@
+# CS50-WEEK6-PSET6-DNA
+# Implement a program that identifies a person based on their DNA
+
 from csv import reader, DictReader
 from sys import argv
 
