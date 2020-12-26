@@ -9,7 +9,7 @@
 
 import cs50
 
-change = cs50.get_float("Change owed : ")
+change: float = cs50.get_float("Change owed : ")
 
 # user input for the amount of change in dollars
 # while loop checks that the amount entered is non-negative
@@ -17,9 +17,9 @@ while change < 0:
     change = cs50.get_float("Change owed : ")
 
 # converting the user input of change in dollars to change in cents
-cents = round(change * 100)
+cents: float = round(change * 100)
 
-coins = 0
+coins: int = 0
 
 # while loop will run till the all of the change is covered
 while cents > 0:
