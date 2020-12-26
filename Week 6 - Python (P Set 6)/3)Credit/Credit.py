@@ -4,11 +4,11 @@
 import cs50
 
 # Getting the card number from the user
-card = cs50.get_int("Enter card number: ")
+card: int = cs50.get_int("Enter card number: ")
 
-num = card
-digits = 0
-name = 4
+num: int = card
+digits: int = 0
+name: int = 4
 
 # checking the number of digits in the card number
 while num > 0:
@@ -18,10 +18,10 @@ while num > 0:
 # checks if the number of digits are one of the only three values given
 if digits == 13 or digits == 15 or digits == 16:
 
-    isCardValid = False
-    checkSum = 0
-    tempCard = card
-    last = tempCard % 10
+    isCardValid: bool = False
+    checkSum: int = 0
+    tempCard: int = card
+    last: int = tempCard%10
 
     # CheckSum using the Luhn's Algorithm
     # "Most cards use an algorithm invented by Hans Peter Luhn of IBM. According to Luhn’s algorithm, you can determine if a credit card number is (syntactically) valid as follows:
