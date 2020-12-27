@@ -155,9 +155,6 @@ PSet7 :
 <a href = "https://cs50.harvard.edu/x/2020/tracks/">Tracks </a>
 
 <ul>
-  <li><a href = "https://cs50.harvard.edu/x/2020/tracks/games/">Games</a></li>
-  <li><a href = "https://cs50.harvard.edu/x/2020/tracks/mobile/android/">Android</a></li>
-  <li><a href = "https://cs50.harvard.edu/x/2020/tracks/mobile/ios/">iOS</a></li>
   <li><a href = "https://cs50.harvard.edu/x/2020/tracks/web/">Web</a></li>
  </ul><br>
 
