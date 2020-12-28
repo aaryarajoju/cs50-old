@@ -155,7 +155,7 @@ PSet7 :
 <a href = "https://cs50.harvard.edu/x/2020/tracks/">Tracks </a>
 
 <ul>
-  <li><a href = "https://cs50.harvard.edu/x/2020/tracks/web/">Web</a></li>
- </ul><br>
+  <a href = "https://cs50.harvard.edu/x/2020/tracks/web/">Web</a>
+ </ul>
 
-<br>
+---
